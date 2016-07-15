@@ -1,0 +1,1 @@
+GET         /health             @com.poc.demo.Health.check
